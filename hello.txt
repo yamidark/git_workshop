@@ -1,0 +1,17 @@
+git init	
+	Initialises new repository
+
+git add <filename> - saves current version into workspace
+git commit -m "otherfilename" - saves into repository 
+
+git log 
+
+git status - checks status, green for added , red for not added, nothing for same as in latest in repository
+
+git diff - checks differences from latest
+
+git clone - adds a clone workshop from the github link
+
+git push origin master - pushes the file to github
+
+git pull - pull files in github to local repository to up to date
